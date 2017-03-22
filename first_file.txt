@@ -1,3 +1,5 @@
 This is a new file for this directory
 Adding some new line
 Add some new information
+This is a very important information : (don't eat too many sweets)
+
