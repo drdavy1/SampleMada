@@ -1,0 +1,57 @@
+    1  pwd
+    2  mkdir
+    3  ls
+    4  touch file
+    5  ls
+    6  touch tex_file.txt
+    7  cat text_file.txt
+    8  cat tex_file.txt
+    9  cat tex_file.txt
+   10  wc -l tex_file.txt
+   11  ls /dev |  ls /dev /wc -l
+   12  ls /dev |  ls /dev /wc -l
+   13  ps -ef
+   14  ps | wc -l
+   15  ls file*
+   16  mkdir Mydirectory
+   17  pwd
+   18  git init
+   19  ls -a
+   20  cd Mydirectory
+   21  ls -a
+   22  git status
+   23  git init
+   24  git add.
+   25  git init
+   26  git status
+   27  git add;
+   28  git add .
+   29  git status
+   30  git commit -m "First commit of my files"
+   31  git config --global user.email "dvsse@sante.gov.mg"
+   32  git commit -m
+   33  git config --global user.name "Rivo"
+   34  git commit -m "First commit of my files"
+   35  git log
+   36  git status
+   37  git diff
+   38  git add .
+   39  git status
+   40  git commit -m "Some new line in my first file"
+   41  git log
+   42  git status
+   43  git add .
+   44  git status
+   45  git commit 'm "My littel secret..."
+git commit -m "My littel secret..."
+   46  git commit 'm "My littel secret..."
+git commit -m "My little secret..."
+git status
+
+   47  git commit -m "My little secret..."
+   48  git staut
+   49  git status
+   50  git checkout -- .
+   51  git log
+   52  history
+   53  history > git_command.txt
