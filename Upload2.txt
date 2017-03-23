@@ -1,0 +1,106 @@
+    1  pwd
+    2  mkdir
+    3  ls
+    4  touch file
+    5  ls
+    6  touch tex_file.txt
+    7  cat text_file.txt
+    8  cat tex_file.txt
+    9  cat tex_file.txt
+   10  wc -l tex_file.txt
+   11  ls /dev |  ls /dev /wc -l
+   12  ls /dev |  ls /dev /wc -l
+   13  ps -ef
+   14  ps | wc -l
+   15  ls file*
+   16  mkdir Mydirectory
+   17  pwd
+   18  git init
+   19  ls -a
+   20  cd Mydirectory
+   21  ls -a
+   22  git status
+   23  git init
+   24  git add.
+   25  git init
+   26  git status
+   27  git add;
+   28  git add .
+   29  git status
+   30  git commit -m "First commit of my files"
+   31  git config --global user.email "dvsse@sante.gov.mg"
+   32  git commit -m
+   33  git config --global user.name "Rivo"
+   34  git commit -m "First commit of my files"
+   35  git log
+   36  git status
+   37  git diff
+   38  git add .
+   39  git status
+   40  git commit -m "Some new line in my first file"
+   41  git log
+   42  git status
+   43  git add .
+   44  git status
+   45  git commit 'm "My littel secret..."
+   46  git commit -m "My littel secret..."
+   47  git commit 'm "My littel secret..."
+   48  git commit -m "My little secret..."
+   49  git status
+   50  git commit -m "My little secret..."
+   51  git staut
+   52  git status
+   53  git checkout -- .
+   54  git log
+   55  history
+   56  history > git_command.txt
+   57  git status
+   58  git add .
+   59  git status
+   60  git commit -m "My command history"
+   61  git log
+   62  git checkout 4f394dd
+   63  get checkout master
+   64  git checkout master
+   65  exit
+   66  cd C
+   67  cd users
+   68  cd utilisateurs
+   69  cd utilisateur
+   70  ls
+   71  pwd
+   72  cd Mydirectory
+   73  log
+   74  git status
+   75  ls
+   76  git log
+   77  git remote add origin http://github.com/drdavy1/SampleMada.git
+   78  git push
+   79  git push  --set-upstream origin master
+   80  history
+   81  history >
+   82  history > Upload to github.txt
+   83  history > Upload_to_ github.txt
+   84  history > Upload.txt
+   85  git log
+   86  git satatus
+   87  git add
+   88  git status
+   89  git add 
+   90  git sattus
+   91  git status
+   92  git commit -m Upload.txt
+   93  git add .
+   94* gi
+   95  gitlog
+   96  git log
+   97  git commit -m "Upload.txt"
+   98  git log
+   99  history
+  100  history | tail
+  101  history | head
+  102  history | less
+  103  log status
+  104  git status
+  105  history > Upload2
+  106  history > Upload2.txt
